@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá, eu sou a Pietra 👋
 
-<!--
-**PietraViegas/PietraViegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante com foco em Análise de Dados e Automação de Processos.
 
-Here are some ideas to get you started:
+Atualmente venho desenvolvendo projetos utilizando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL
+- Python
+- Power BI
+- Excel
+- Google Sheets
+- n8n
+- Docker
+
+### Projetos em destaque
+
+- Auditoria de Performance Comercial — análise de rentabilidade, descontos e portfólio.
+- Automação e Monitoramento de Vendas — pipeline automatizado de qualidade e processamento de dados.
+
+Buscando oportunidades de estágio na área de Dados.
